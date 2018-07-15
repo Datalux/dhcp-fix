@@ -1,7 +1,7 @@
 # dhcp-fix
 Python script to fix DCHP disconnect.
 
-##Installing
+## Installing
 Make sure to have Python3 and tkinter installed.
 
 Open a terminal into the directory where you want to put this app, then run
